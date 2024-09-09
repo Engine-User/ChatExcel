@@ -18,7 +18,8 @@ with st.expander(label="Unlock the full potential of your data with ChatExcel"):
     st.markdown("""
         <span style='color: Green;'>
             A powerful web app that transforms CSV files into interactive conversations<br>
-            Gain unparalleled insights by plotting custom charts, sorting data on demand, and exporting your findings to your local device with just one click.
+            Gain unparalleled insights by plotting custom charts, sorting data on demand, and exporting your findings to your local device with just one click<br>
+            -from Engineer
         </span>
     """, unsafe_allow_html=True)
 
