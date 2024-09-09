@@ -1,4 +1,4 @@
-import streamlit as st
+ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -12,7 +12,7 @@ import time  # Corrected import for sleep
 st.set_page_config(layout="wide")
 st.title('ChatExcel App')
 # Add a text block with information about the app
-st.markdown("### Hello there, do you wanna talk to your Excel sheets?")
+st.markdown("### Hello there, do you wish to talk to your Excel sheets?")
 
 with st.expander(label="Unlock the full potential of your data with ChatExcel"):
     st.markdown("""
